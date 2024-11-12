@@ -35,7 +35,7 @@ function App() {
               <a href="mailto:pratiksunilmagdum2021@email.com" className="p-3 bg-white rounded-full shadow-lg hover:shadow-xl transition-all">
                 <Mail className="w-6 h-6" />
               </a>
-              <a href="tel:+1234567890" className="p-3 bg-white rounded-full shadow-lg hover:shadow-xl transition-all">
+              <a href="tel:+919022533809" className="p-3 bg-white rounded-full shadow-lg hover:shadow-xl transition-all">
                 <Phone className="w-6 h-6" />
               </a>
             </div>
@@ -99,7 +99,7 @@ function App() {
               description="Comprehensive platform for managing technical interviews and assessments"
               techStack={['React.js', 'Express.js', 'MongoDB', 'Redux']}
               image="https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
-              githubLink="https://github.com/pratikmagdum/interview-portal"
+              githubLink="https://interview-portal-dkte.vercel.app"
             />
           </div>
         </div>
